@@ -4,7 +4,7 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=flat&logo=clion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattshanahan&show_icons=true&theme=tokyonight&langs_count=8&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyattshanahan&show_icons=true&theme=tokyonight&langs_count=12&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wyattshanahan/wyattshanahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
